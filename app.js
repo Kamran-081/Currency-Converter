@@ -1,4 +1,4 @@
-const API_KEY = "224ee3fbf0d2ca3683b40590";
+const API_KEY = "xxxxxxxx";
 const BASE_URL = `https://v6.exchangerate-api.com/v6/${API_KEY}/pair`;
 
 const dropdowns = document.querySelectorAll(".dropdown select");
