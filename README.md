@@ -1,9 +1,10 @@
-```
+
 # Currency-Converter
 A web-based currency converter that provides accurate, real-time exchange rates through API integration. Designed simply using HTML, CSS, and JavaScript.
 
 
 **Features**
+```
 
  -Convert between multiple international currencies
 
@@ -16,6 +17,7 @@ A web-based currency converter that provides accurate, real-time exchange rates 
  -Default value handling (prevents invalid input)
 
  -Auto update on page load
+```
 
 
  **Tech stack**
@@ -33,12 +35,13 @@ A web-based currency converter that provides accurate, real-time exchange rates 
 
 **Project Structure**
 
+```
 Currency Converter/
 │── index.html      # Main HTML file
 │── style.css       # Styling file
 │── app.js          # Main logic (API + DOM handling)
 │── codes.js        # Currency and country mapping
-
+```
 
 **Working**
 
@@ -76,5 +79,4 @@ Example:
 
 https://flagsapi.com/US/flat/64.png
 
-🔗 https://flagsapi.com/*
-```
+🔗 https://flagsapi.com/
